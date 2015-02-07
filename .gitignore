@@ -2,3 +2,7 @@
 *.iml
 target/
 out/
+/.classpath
+/.project
+/target-eclipse/
+/.settings/

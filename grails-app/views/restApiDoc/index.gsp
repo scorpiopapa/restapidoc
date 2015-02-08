@@ -88,7 +88,7 @@
         text-shadow: 0 1px 0 #fff;
     }
     </style>
-    <link href="../css/jsondoc/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="css/jsondoc/bootstrap-responsive.min.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
